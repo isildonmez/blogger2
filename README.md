@@ -1,24 +1,55 @@
-# README
+## Without signing in
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![without_signin](images/0.without_signin.png)
 
-Things you may want to cover:
+## Signup
 
-* Ruby version
+![signup](images/1.signup1.png)
 
-* System dependencies
+![signup](images/1.signup2.png)
 
-* Configuration
+![signup](images/1.signup3.png)
 
-* Database creation
+## Login
 
-* Database initialization
+![login](images/2.login1.png)
 
-* How to run the test suite
+![login](images/2.login2.png)
 
-* Services (job queues, cache servers, search engines, etc.)
+![login](images/2.login3.png)
 
-* Deployment instructions
+## Articles Page
 
-* ...
+![articles_page](images/3.articles_page.png)
+
+## New Article
+
+![new_article](images/4.new_article1.png)
+
+![new_article](images/4.new_article2.png)
+
+## Adding Comment
+
+![adding_comment](images/5.adding_comment1.png)
+
+![adding_comment](images/5.adding_comment2.png)
+
+## Tagging
+
+![tagging](images/6.tagging.png)
+
+## Edit Article
+
+![edit_article](images/7.edit_article1.png)
+
+![edit_article](images/7.edit_article2.png)
+
+## Delete Article
+
+![delete_article](images/8.delete_article1.png)
+
+![delete_article](images/8.delete_article2.png)
+
+## Logout
+
+![logout](images/9.logout.png)
